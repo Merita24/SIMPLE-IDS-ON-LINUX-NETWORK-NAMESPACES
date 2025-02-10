@@ -1,5 +1,4 @@
 # SIMPLE-IDS-ON-LINUX-NETWORK-NAMESPACES
-# SIMPLE IDS ON LINUX NETWORK NAMESPACES
 
 ## Introduction
 This project implements a **Simple Intrusion Detection System (IDS)** using **Python** and **Linux network namespaces**. The IDS monitors network traffic within a namespace to detect suspicious activity.
